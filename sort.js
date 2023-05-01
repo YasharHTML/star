@@ -82,4 +82,4 @@ function quickSort(arr) {
 
 const arr = [1, 2, 5, 3, 5, 2];
 
-console.log(mergeSort(arr)); // quick (armenian) and merge sort returns, others sorts you can just print arr
+console.log(mergeSort(arr));
